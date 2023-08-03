@@ -21,7 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-README.md*
 
 ## ...or create a new repository on the command line
 echo "# ReactQuizFinal" >> README.md
