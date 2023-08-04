@@ -1,3 +1,13 @@
+# I will add more features in this app in the near future
+
+# Possible New Features
+
+## A person can choose the number of questions to display
+
+## The highscore should be shown on the start screen
+
+## The highscore should be stored in local Storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
