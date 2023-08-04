@@ -10,6 +10,7 @@ function Timer({ dispatch, secondsRemaining }) {
       dispatch({ type: "tick" });
     }, 1000);
 
+    // clean up function
     return () => clearInterval(id);
   }, [dispatch]);
 
